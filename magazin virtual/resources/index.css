@@ -1,0 +1,40 @@
+.navbar {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-image: url(./images/banner.jpg);
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+.navbar button {
+    font-size: 25px;
+    background-color: greenyellow;
+    font-family: "Courier New", monospace;
+}
+
+#Categorii {
+    font-size: 30px;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+button:hover {
+    font-weight: bold;
+}
+
+.banner {
+    width: 100%;
+}
